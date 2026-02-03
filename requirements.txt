@@ -1,0 +1,14 @@
+# requirements.txt
+transformers
+peft
+accelerate
+sentence-transformers
+rich
+requests
+tqdm
+# Summarizer Dependencies
+beautifulsoup4
+readability-lxml
+jieba
+PyYAML
+Jinja2
